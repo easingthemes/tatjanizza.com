@@ -14,8 +14,3 @@ platform_wp/wp-content/uploads/
 platform_wp/wp-content/wp-cache-config.php
 platform_wp/wp-content/plugins/hello.php
 
-/.htaccess
-platform_wp/license.txt
-platform_wp/readme.html
-platform_wp/sitemap.xml
-platform_wp/sitemap.xml.gz
