@@ -11,9 +11,13 @@
 - install `WP Sync DB`
 ## Remote
 - develop.domain.com
-- production.domain.com
+- staging.domain.com
+- domain.com
 - add PHP Git deploy script
 - create Github webhook
 ## Deploy
 - auto deploy on git merge
 - manual sync DB
+
+develop -> develop.domain.com
+master -> domain.com
