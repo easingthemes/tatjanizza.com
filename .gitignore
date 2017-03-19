@@ -10,7 +10,7 @@ platform_wp/wp-content/backups/
 platform_wp/wp-content/blogs.dir/
 platform_wp/wp-content/cache/
 platform_wp/wp-content/upgrade/
-platform_wp/wp-content/uploads/
+# platform_wp/wp-content/uploads/
 platform_wp/wp-content/wp-cache-config.php
 platform_wp/wp-content/plugins/hello.php
 
