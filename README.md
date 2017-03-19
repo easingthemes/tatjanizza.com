@@ -20,4 +20,5 @@
 - manual sync DB
 
 develop -> develop.domain.com
+staging -> staging.domain.com
 master -> domain.com
