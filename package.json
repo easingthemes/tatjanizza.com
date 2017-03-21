@@ -1,0 +1,21 @@
+{
+  "name": "tatjanizza.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server-start": "yarn run mamp start",
+    "server-stop": "yarn run mamp stop"
+  },
+  "repository": "git+https://github.com/easingthemes/tatjanizza.com.git",
+  "author": "Dragan Filipovic <dragan.filipovic@netcentric.biz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easingthemes/tatjanizza.com/issues"
+  },
+  "homepage": "https://github.com/easingthemes/tatjanizza.com#readme",
+  "devDependencies": {
+    "mamp-cli": "^0.0.8"
+  }
+}

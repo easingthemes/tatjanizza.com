@@ -22,3 +22,7 @@
 develop -> develop.domain.com
 staging -> staging.domain.com
 master -> domain.com
+
+# Build tasks
+1. Start MAMP `mamp-cli`
+
