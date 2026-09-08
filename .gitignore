@@ -1,15 +1,13 @@
-node_modules
-.idea
-.DS_Store
+.hlx/*
+coverage/*
+logs/*
+node_modules/*
 
-*.log
-platform_wp/wp-config.php
-platform_wp/wp-content/advanced-cache.php
-platform_wp/wp-content/backup-db/
-platform_wp/wp-content/backups/
-platform_wp/wp-content/blogs.dir/
-platform_wp/wp-content/cache/
-platform_wp/wp-content/upgrade/
-platform_wp/wp-content/uploads/
-platform_wp/wp-content/wp-cache-config.php
-platform_wp/wp-content/plugins/hello.php
+helix-importer-ui
+.DS_Store
+*.bak
+.idea
+
+# Ensure these files are tracked
+!CLAUDE.md
+!AGENTS.md
